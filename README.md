@@ -63,3 +63,7 @@ You can find the path of your `node` executable by running `which node` in your 
 After configuring Claude Desktop, you need to restart it and then you will see the small hammer icon on the bottom right in the chat input. You can then ask Claude to generate a meme for you.
 
 ![Claude Desktop with meme server configured](./docs/claude-desktop-meme-example.png)
+
+## Author
+
+This project is created for fun by [Vladimir Haltakov](https://haltakov.net). If you find it interesting you can message me on X [@haltakov](https://x.com/haltakov).
