@@ -14,7 +14,7 @@ The tool accepts the following parameters:
 
 ## Usage
 
-You can configure the meme generator server in your client using the [`meme-mcp`](https://www.npmjs.com/package/meme-mcp) NPM package. Here is an example configuration for Claude Desktop:
+You can configure the meme generator server in your client using the [`meme-mcp`](https://www.npmjs.com/package/meme-mcp) NPM package. Here is an example configuration for Claude Desktop (Settings -> Developer -> Edit Config):
 
 ```json
 {
