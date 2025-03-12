@@ -2,6 +2,10 @@
 
 A simple Model Context Protocol (MCP) server for generating memes using the ImgFlip API. This server enables AI models and tools to generate meme images from user prompts.
 
+<a href="https://glama.ai/mcp/servers/d316l4kyh7">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/d316l4kyh7/badge" alt="Meme Server MCP server" />
+</a>
+
 ## Tools
 
 The server implements the following a single tool called `generateMeme`.
