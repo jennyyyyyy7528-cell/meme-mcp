@@ -1,0 +1,10 @@
+name: meme-mcp
+language: node
+
+build:
+  engine: docker
+  path: .
+  command: ["npm", "run", "build"]
+
+entry:
+  command: ["node", "dist/index.js"]
