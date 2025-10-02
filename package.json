@@ -2,6 +2,7 @@
   "name": "meme-mcp",
   "version": "1.0.1",
   "main": "dist/index.js",
+  "module": "./src/index.ts",
   "license": "Apache-2.0",
   "author": {
     "name": "Vladimir Haltakov",
@@ -16,7 +17,8 @@
   },
   "homepage": "https://github.com/haltakov/meme-mcp",
   "scripts": {
-    "build": "tsc && chmod +x dist/*.js"
+    "build": "tsc && chmod +x dist/*.js",
+    "start": "node dist/index.js"
   },
   "files": [
     "dist"
