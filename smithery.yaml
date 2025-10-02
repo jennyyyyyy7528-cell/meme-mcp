@@ -6,3 +6,6 @@ build:
 
 startCommand:
   command: ["node", "dist/index.js"]
+
+bundle:
+  format: esm
