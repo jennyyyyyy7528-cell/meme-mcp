@@ -1,10 +1,8 @@
 name: meme-mcp
-language: node
+runtime: typescript
 
 build:
-  engine: docker
-  path: .
   command: ["npm", "run", "build"]
 
-entry:
+startCommand:
   command: ["node", "dist/index.js"]
